@@ -1,4 +1,4 @@
-<img  align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/five.gif?raw=true" width="350" alt="giphy">
+<img  align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/three.gif?raw=true" width="350" alt="giphy">
 <h1 >Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Nice to see you.</h1>
 
 [<img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/angular_gradient.png?raw=true" alt="Angular js" width="70">](https://angular.io/docs)
@@ -15,7 +15,7 @@
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/Figma-Dark.svg" alt="React js" width="60">](https://react.dev/)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/JavaScript.svg" alt="TypeScript" width="60">](https://www.typescriptlang.org/docs/)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/DotNet.svg" alt="TypeScript" width="60">](https://www.typescriptlang.org/docs/)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/29ce037b6cb93706c9e5ff092eab3a1965c1f97d/Media/MySQL-Dark.svg" alt="MySQL" width="60">](https://www.typescriptlang.org/docs/)
+
 
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="40">](mailto:armando311335@gmail.com)
 [<img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/linkedin.png?raw=true" alt="telegram" width="40">](https://t.me/voko_aleksey)
