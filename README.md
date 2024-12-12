@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 <!-- [<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/two.gif?raw=true" width="220" alt="giphy">](https://t.me/voko_aleksey)
 [<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/three.gif?raw=true" width="220" alt="giphy">](https://t.me/voko_aleksey) -->
-[<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/Four.gif?raw=true" width="250" alt="giphy">](https://t.me/voko_aleksey)
-
-
-
+[<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/Four.gif?raw=true" width="350" alt="giphy">](https://t.me/voko_aleksey)
 
 
 
