@@ -24,10 +24,8 @@
 
 ![SnaiderRangel's Stats](https://github-readme-stats.vercel.app/api?username=SnaiderRangel&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![SnaiderRangel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnaiderRangel&theme=dark&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
+![SnaiderRangel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnaiderRangel&theme=dark&hide_border=true)
 
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
 
