@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 # Hey! 👋 Nice to see you.
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="React" width="100">](https://developer.android.com/reference)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Java-Dark.svg" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Python-Dark.svg" alt="Python" width="100">](https://kotlinlang.org/docs/home.html)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/TypeScript.svg" alt="TypeScript" width="100">](https://developer.android.com/reference)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/React-Dark.svg" alt="React js" width="100">](https://golang.org/doc/)
 
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="50">](mailto:voko.aleksey@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
@@ -46,8 +46,5 @@ Here are some ideas to get you started:
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
 
----
-
-[Aleksey-Voko](https://github.com/Aleksey-Voko)
 
 Last Edited on: 16/11/2021
