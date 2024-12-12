@@ -22,10 +22,12 @@
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/be96012dbd61eabb10f6d215bc812677df803f6b/Media/Twitter.svg" alt="Logo X" width="40">](https://t.me/oldcodersclub)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/Discord.svg" alt="Discord" width="40">](https://t.me/oldcodersclub)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![SnaiderRangel's Stats](https://github-readme-stats.vercel.app/api?username=SnaiderRangel&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![SnaiderRangel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnaiderRangel&theme=dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
 
