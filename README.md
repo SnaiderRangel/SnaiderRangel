@@ -16,7 +16,34 @@ Here are some ideas to get you started:
 -->
 <!--suppress HtmlDeprecatedAttribute -->
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<!-- [<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/two.gif?raw=true" width="220" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/three.gif?raw=true" width="220" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/Four.gif?raw=true" width="220" alt="giphy">](https://t.me/voko_aleksey) -->
+
+<table align='right' >
+  <tr>
+    <td>
+      <a href="https://t.me/voko_aleksey">
+        <img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/two.gif?raw=true" width="220" alt="giphy">
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/voko_aleksey">
+        <img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/three.gif?raw=true" width="220" alt="giphy">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://t.me/voko_aleksey">
+        <img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/Four.gif?raw=true" width="220" alt="giphy">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 # Hey! 👋 Nice to see you.
 
