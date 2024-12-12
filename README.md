@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 # Hey! 👋 Nice to see you.
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Java-Dark.svg" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Python-Dark.svg" alt="Python" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/TypeScript.svg" alt="TypeScript" width="100">](https://developer.android.com/reference)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/React-Dark.svg" alt="React js" width="100">](https://golang.org/doc/)
+[<img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/angular_gradient.png?raw=true" alt="Angular js" width="100">](https://angular.io/docs)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Java-Dark.svg" alt="Java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Python-Dark.svg" alt="Python" width="100">](https://docs.python.org/3/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/React-Dark.svg" alt="React js" width="100">](https://react.dev/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/TypeScript.svg" alt="TypeScript" width="100">](https://www.typescriptlang.org/docs/)
+
 
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="50">](mailto:voko.aleksey@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
