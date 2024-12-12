@@ -7,6 +7,7 @@
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/React-Dark.svg" alt="React js" width="60">](https://react.dev/)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/TypeScript.svg" alt="TypeScript" width="60">](https://www.typescriptlang.org/docs/)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/be96012dbd61eabb10f6d215bc812677df803f6b/Media/NextJS-Dark.svg" alt="TypeScript" width="60">](https://www.typescriptlang.org/docs/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/29ce037b6cb93706c9e5ff092eab3a1965c1f97d/Media/MySQL-Dark.svg" alt="MySQL" width="60">](https://www.typescriptlang.org/docs/)
 
 
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="40">](mailto:armando311335@gmail.com)
