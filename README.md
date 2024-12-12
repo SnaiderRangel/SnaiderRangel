@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 [<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/three.gif?raw=true" width="220" alt="giphy">](https://t.me/voko_aleksey) -->
 <!-- [<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/Four.gif?raw=true" width="350" alt="giphy">](https://t.me/voko_aleksey) -->
 <!-- [<img align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/coworkerIA.gif?raw=true" width="350" alt="giphy">](https://t.me/voko_aleksey) -->
-[<img style="margin-top: 40px;" align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/Marketer.gif?raw=true" width="350" alt="giphy">](https://t.me/voko_aleksey)
+<img  align='right' src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/Gifs/five.gif?raw=true" width="350" alt="giphy">
 
-
-
-# Hey! 👋 Nice to see you.
+<h1>Hey! 👋 Nice to see you.</h1>
 
 [<img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/angular_gradient.png?raw=true" alt="Angular js" width="70">](https://angular.io/docs)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Java-Dark.svg" alt="Java" width="70">](https://docs.oracle.com/en/java/)
