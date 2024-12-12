@@ -27,15 +27,12 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/TypeScript.svg" alt="TypeScript" width="100">](https://www.typescriptlang.org/docs/)
 
 
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="50">](mailto:voko.aleksey@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="50">](mailto:armando311335@gmail.com)
+[<img src="https://github.com/SnaiderRangel/SnaiderRangel/blob/main/Media/linkedin.png?raw=true" alt="telegram" width="50">](https://t.me/voko_aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
-[<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
