@@ -12,9 +12,10 @@
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/NodeJS-Dark.svg" alt="Node js" width="60">](https://angular.io/docs)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/Django.svg" alt="Django" width="60">](https://docs.oracle.com/en/java/)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/NestJS-Dark.svg" alt="Nest js" width="60">](https://docs.python.org/3/)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/Figma-Dark.svg" alt="React js" width="60">](https://react.dev/)
-[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/JavaScript.svg" alt="TypeScript" width="60">](https://www.typescriptlang.org/docs/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/Figma-Dark.svg" alt="figma" width="60">](https://react.dev/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/JavaScript.svg" alt="JavaScript" width="60">](https://www.typescriptlang.org/docs/)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/DotNet.svg" alt="TypeScript" width="60">](https://www.typescriptlang.org/docs/)
+[<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/44de4be0c1c4c59b51fbcc6783ff4a8606d1d66e/Media/Wordpress.svg" alt="Wordpress" width="60">](https://www.typescriptlang.org/docs/)
 
 
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/c0c27150dbb01bd3f278048f37077ccd63c6e7b4/Media/Gmail-Dark.svg" alt="Gmail" width="40">](mailto:armando311335@gmail.com)
@@ -27,11 +28,11 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 ![SnaiderRangel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnaiderRangel&theme=dark&hide_border=true) -->
 
-[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
+<!-- [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
 
 [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
 
-Last Edited on: 16/11/2021
+Last Edited on: 16/11/2021 -->
