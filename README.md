@@ -23,7 +23,6 @@
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/be96012dbd61eabb10f6d215bc812677df803f6b/Media/Twitter.svg" alt="Logo X" width="40">](https://t.me/oldcodersclub)
 [<img src="https://raw.githubusercontent.com/SnaiderRangel/SnaiderRangel/71ff1e0f9178c51fe6120141484243ddbd8f20c3/Media/Discord.svg" alt="Discord" width="40">](https://t.me/oldcodersclub)
 
-![SnaiderRangel's Stats](https://github-readme-stats.vercel.app/api?username=SnaiderRangel&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 ![SnaiderRangel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnaiderRangel&theme=dark&hide_border=true) -->
